@@ -32,7 +32,7 @@ Date: 11/01/2020
 <a href="https://github.com/cmutd/TCGA_GTEx/blob/main/code/step3_visualization.R" _target="blank">code</a>
 
 ### a. boxplot
-![](https://github.com/cmutd/TCGA_GTEx/blob/main/figure/pancancer_TP53Plot.png)
+![](https://github.com/cmutd/TCGA_GTEx/blob/master/figure/pancancer_TP53Plot.png)
 
 ### b. violinplot 
-![](https://github.com/cmutd/TCGA_GTEx/blob/main/figure/TP53_expression_violin.png)
+![](https://github.com/cmutd/TCGA_GTEx/blob/master/figure/TP53_expression_violin.png)
